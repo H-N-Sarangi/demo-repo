@@ -1,3 +1,3 @@
-# Demo
+# Demo git
 
-some description!
+Trying yo figure basic git commands!
